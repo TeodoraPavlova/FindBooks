@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="small_dp">7dp</dimen>
+    <dimen name="medium_dp">11dp</dimen>
+    <dimen name="large_dp">17dp</dimen>
+    <dimen name="minimum_card_width">175dp</dimen>
+    <dimen name="card_corner_radius">3dp</dimen>
+    <dimen name="card_elevation">12dp</dimen>
+    <dimen name="books_padding">1dp</dimen>
+    <dimen name="books_margin">10dp</dimen>
+    <item name="title_max_lines" type="dimen" format="integer">2</item>
+    <item name="author_max_lines" type="dimen" format="integer">1</item>
+</resources>
